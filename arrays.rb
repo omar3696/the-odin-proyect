@@ -55,3 +55,5 @@ puts numero.include?(3)  # => true
 #metodo first, last
 puts numero.first  # => 5
 puts numero.last   # => 1
+
+#*************SEGUNDA PRUEBA********************
